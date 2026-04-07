@@ -130,4 +130,4 @@ This project showcases a **step-by-step evolution** from simple fixed-pattern mo
 ✅ *Recommended for beginners learning Python logic through Reeborg World.*
 
 ## AUTHOR
-Gaurang Sharma
+Aradhya Negi
